@@ -1,6 +1,6 @@
 # UE5 Military Simulator Learning Project
 
-**Developer**: [Your Name]
+**Developer**: [Tomer Levi]
 **Timeline**: 8-week intensive learning program
 **Target**: Application to Stride Interactive military simulation project
 **Technology Stack**: Unreal Engine 5.3, C++, Blueprint Visual Scripting
